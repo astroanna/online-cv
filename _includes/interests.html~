@@ -1,0 +1,11 @@
+<div class="interests-container container-block">
+<h2 class="container-block-title">Interests</h2>
+<ul class="list-unstyled interests-list">
+<li>Video Games</li>
+<li>Guitar</li>
+<li>Comic Books</li>
+<li>LGBTQ+ Issues</li>
+<li>Coffee</li>
+<li>Walking</li>
+</ul>
+</div><!--//interests-->
