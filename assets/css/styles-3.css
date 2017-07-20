@@ -214,6 +214,7 @@ p {
   font-weight: 500;
 }
 .main-wrapper .time {
+  font-size: 10px;
   position: absolute;
   right: 0;
   top: 0;
