@@ -222,7 +222,7 @@ p {
 .main-wrapper .GPA {
   position: absolute;
   right: 0;
-  top: 10;
+  top: -10;
   color: #97AAc3;
 }
 .main-wrapper .company {
