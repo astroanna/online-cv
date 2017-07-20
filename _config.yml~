@@ -1,12 +1,13 @@
 
 title: Anna Gassen
 url: 'http://astroanna.github.com'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: '/resume' #change it according to your repository name
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-style: styles-2
-#style: styles-3
+#default blue
+#style: styles-2 #green
+style: styles-3
 #style: styles-4
 #style: styles-5
 #style: styles-6
