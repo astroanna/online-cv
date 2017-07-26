@@ -14,7 +14,7 @@
 			        <li>Research and implemented the Elastic Stack product portfolio on a cluster with a group of peers.</li>
 				<li>Built and troubleshooted a computer cluster from scratch as part of a team.</li>
 				<li>Acquired hands on experience with topics and technologies critical to HPC.</li>
-		            </ul></p>  
+			    </ul></p>  
                     </div><!--//details-->
                 </div><!--//item-->
                 
@@ -27,9 +27,13 @@
                         <div class="company">Seattle University School of Law, Seattle, WA</div>
                     </div><!--//meta-->
                     <div class="details">
-                        <p>Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>  
-                        
-                    </div><!--//details-->
+                         <p><ul>
+				 <li>Assisted customers in troubleshooting Seattle U systems as well as personal device issues both in person and over the phone.</li>
+				<li>Instructed customers on how to use Seattle U technologies in an amicable manner.</li>
+				<li>Provided friendly customer service by answering customer inquiries.</li>
+			    </ul></p>  
+
+		    </div><!--//details-->
                 </div><!--//item-->
                 
                 <div class="item">
@@ -41,8 +45,12 @@
                         <div class="company">MVGate, Mill Valley, CA</div>
                     </div><!--//meta-->
                     <div class="details">
-                        <p>Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>  
-                    </div><!--//details-->
+                        <p><ul>
+				 <li>Promoted sytdents' self-confidence by supporting them on individual projects and through group presentations.</li>
+				<li>Taught problem solving and teamwork skills by guiding students trhough coding projects.</li>
+				<li>Assisted teachers by coaching 3 classes a week of children ages 5-10.</li>
+			    </ul></p> 
+		    </div><!--//details-->
                 </div><!--//item-->
               
                <div class="item">
@@ -54,8 +62,8 @@
                         <div class="company">Square, San Francisco, CA</div>
                     </div><!--//meta-->
                     <div class="details">
-                        <p>Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>  
-                    </div><!--//details-->
+                        
+		    </div><!--//details-->
                 </div><!--//item-->
 
 
