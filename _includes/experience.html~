@@ -1,23 +1,7 @@
 <section class="section experiences-section">
                 <h2 class="section-title"><i class="fa fa-briefcase"></i>Experiences</h2>
-                
-                <div class="item">
-                    <div class="meta">
-                        <div class="upper-row">
-                            <h3 class="job-title">HPC Cluster Engineer Academy</h3>
-                            <div class="time">June - Aug 2017</div>
-                        </div><!--//upper-row-->
-			<div class="company">Lawrence Livermore National Lab, Livermore, CA</div>
-                    </div><!--//meta-->
-                    <div class="details">
-			    <p><ul>
-			        <li>Research and implemented the Elastic Stack product portfolio on a cluster with a group of peers.</li>
-				<li>Built and troubleshooted a computer cluster from scratch as part of a team.</li>
-				<li>Acquired hands on experience with topics and technologies critical to HPC.</li>
-			    </ul></p>  
-                    </div><!--//details-->
-                </div><!--//item-->
-                
+
+
                 <div class="item">
                     <div class="meta">
                         <div class="upper-row">
@@ -28,12 +12,29 @@
                     </div><!--//meta-->
                     <div class="details">
                          <p><ul>
-				 <li>Assisted customers in troubleshooting Seattle U systems as well as personal device issues both in person and over the phone.</li>
-				<li>Instructed customers on how to use Seattle U technologies in an amicable manner.</li>
-				<li>Provided friendly customer service by answering customer inquiries.</li>
+				 <li>Assist customers in troubleshooting Seattle U systems as well as personal device issues both in person and over the phone.</li>
+				<li>Instruct customers on how to use Seattle U technologies crucial to the Law School's operation, such as internet, printing, and test taking software.</li>
+				<li>Provide friendly customer service by patiently answering customer inquiries.</li>
 			    </ul></p>  
 
 		    </div><!--//details-->
+                </div><!--//item-->
+
+                <div class="item">
+                    <div class="meta">
+                        <div class="upper-row">
+                            <h3 class="job-title">HPC Cluster Engineer Academy</h3>
+                            <div class="time">June - Aug 2017</div>
+                        </div><!--//upper-row-->
+			<div class="company">Lawrence Livermore National Lab, Livermore, CA</div>
+                    </div><!--//meta-->
+                    <div class="details">
+			    <p><ul>
+			        <li>Researched and implemented the Elastic Stack product portfolio on three clusters as part of a team of interns.</li>
+				<li>Installed and managed a cluster of eleven nodes from scratch.</li>
+				<li>Learned technologies critical to HPC by attending tech talks and collaborating with Livermore Computation employees.</li>
+			    </ul></p>  
+                    </div><!--//details-->
                 </div><!--//item-->
                 
                 <div class="item">
@@ -62,7 +63,11 @@
                         <div class="company">Square, San Francisco, CA</div>
                     </div><!--//meta-->
                     <div class="details">
-                        
+                         <p><ul>
+				 <li>Developed a passion for technology by attending workshops, visiting tech companies, and speaking with professionals.</li>
+				<li>Acquired 1 semester of computer science ducation through lessons and activities totalling 280 hours over 7 weeks.</li>
+				<li>Improved entrepreneurial skills by pitching final project to an audience of 50 people.</li>
+			    </ul></p> 
 		    </div><!--//details-->
                 </div><!--//item-->
 
