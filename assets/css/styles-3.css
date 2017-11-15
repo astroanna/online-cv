@@ -197,8 +197,12 @@ p {
 }
 .main-wrapper .section {
   margin-bottom: 60px;
-  font-size: 20px;
 }
+
+.main-wrapper .about {
+  font-size: 14px
+}
+
 .main-wrapper .experiences-section .item {
   margin-bottom: 30px;
 }
